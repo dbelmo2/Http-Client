@@ -1,0 +1,31 @@
+Basic URLs
+---
+Q1. http://www.example.com		1 / 1
+Q2. http://i.imgur.com/fyxDric.jpg		1 / 1
+Q3. http://go.com/doesnotexist		1 / 1
+Q4. http://www.ifyouregisterthisforclassyouareoutofcontrol.com/		1 / 1
+Q5. http://www.asnt.org:8080/Test.html		1 / 1
+Q6. http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx		0 / 1
+	Student output does not match reference output
+Q7. https://www.cs.uic.edu/~ckanich/		1 / 1
+Q8. https://😻🍕.ws		1 / 1
+Q9. http://www.fieggen.com/shoelace		1 / 1
+
+Additional, Surprise URLs
+---
+Q10. http://i.imgur.com/fyxDric.jpghttp://www.urls.net/		1 / 1
+Q11. http://nedbatchelder.com/text/unipain/unipain.html		1 / 1
+Q12. http://textfiles.com/		1 / 1
+
+Bonus URLs - Delayed server
+---
+Q13. http://127.0.0.1		0 / 1
+	Student output does not match reference output
+Q14. http://127.0.0.1		0 / 1
+	Student output does not match reference output
+Q15. http://127.0.0.1		0 / 1
+	Student output does not match reference output
+
+
+===
+Total: 11 / 12
